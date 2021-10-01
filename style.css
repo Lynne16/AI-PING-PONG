@@ -1,0 +1,15 @@
+.heading{
+    width: 100%;
+    text-align: left;
+    font-size: 23px;
+}
+.heading button{
+    float: right;
+}
+
+#playgame{
+    font-size: 20px;
+}
+#status{
+    font-size: 18px;
+}
