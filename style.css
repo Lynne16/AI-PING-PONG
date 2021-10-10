@@ -7,9 +7,22 @@
     float: right;
 }
 
-#playgame{
+#playgame, #restart{
     font-size: 20px;
 }
 #status{
     font-size: 18px;
+}
+
+.rules{
+    font-size: 23px;
+    text-align: left;
+}
+
+#footer{
+    width: 100%;
+    position:sticky;
+    background-color: white;
+    font-size: 20px;
+    bottom: 0;
 }
