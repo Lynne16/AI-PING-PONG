@@ -26,3 +26,9 @@
     font-size: 20px;
     bottom: 0;
 }
+
+canvas{
+    border:3px solid white;
+    border-radius: 10px;
+    box-shadow:  5px 5px 18px white;
+}
